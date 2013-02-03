@@ -14,5 +14,6 @@
 ```
 
 Install by running `gem install metallica`   
+Run `metallica`   
 
 ASCII art by Alex Tutusaus, obtained from http://www.chris.com/ascii/index.php?art=music/band%20logos/metallica
